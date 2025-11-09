@@ -1,7 +1,13 @@
 # Flam_Assignment
 Solution:
 ---------
-\left(t*\cos(0.826)-e^{0.0742\left|t\right|}\cdot\sin(0.3t)\sin(0.826)\ +11.5793,42+\ t*\sin(0.826)+e^{0.0742\left|t\right|}\cdot\sin(0.3t)\cos(0.826)\right)
+\left(
+t\cos(28.12)
+-e^{0.0214|t|}\cdot\sin(0.3t)\sin(28.12)
++54.9012,\ 
+42+t\sin(28.12)
++e^{0.0214|t|}\cdot\sin(0.3t)\cos(28.12)
+\right)
 
 Steps to solve the problem:
 --------------------------
