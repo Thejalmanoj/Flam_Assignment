@@ -1,14 +1,12 @@
 # Flam_Assignment
 Solution:
 ---------
-\left(
-t\cos(28.12)
--e^{0.0214|t|}\cdot\sin(0.3t)\sin(28.12)
-+54.9012,\ 
-42+t\sin(28.12)
-+e^{0.0214|t|}\cdot\sin(0.3t)\cos(28.12)
+$$
+\left(t*\cos(28.12)-e^{0.0214\left|t\right|}\cdot\sin(0.3t)\sin(28.12)\+54.9012, 
+42+t*\sin(28.12)
++e^{0.0214\left|t\right|}\cdot\sin(0.3t)\cos(28.12)
 \right)
-
+$$
 Steps to solve the problem:
 --------------------------
 1. Data is given as an excel sheet with 2 columns x and y.
